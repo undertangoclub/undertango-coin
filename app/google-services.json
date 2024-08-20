@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205491602731",
+    "project_id": "undertangocoin",
+    "storage_bucket": "undertangocoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205491602731:android:f7ad03bbba8c665b51f16e",
+        "android_client_info": {
+          "package_name": "com.emptyset.undertangocoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJsvzbSRxTTDTcDdJGax8XQOK_szXBXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
