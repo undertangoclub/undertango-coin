@@ -10,10 +10,10 @@
 
 ## Descripción del Proyecto
 
-UnderTango Coin es una innovadora aplicación móvil diseñada para simular un ecosistema de criptomonedas en un entorno cerrado, específicamente dentro del evento LABITCONF 2024. El objetivo principal es proporcionar una experiencia educativa e inmersiva donde los participantes puedan interactuar, ganar o perder Undertango Coins, y aprender sobre los principios fundamentales del mundo cripto a través de actividades dinámicas y simbólicas.
+UnderTango Coin es una innovadora aplicación móvil diseñada para simular un ecosistema de criptomonedas en un entorno cerrado. El objetivo principal es proporcionar una experiencia educativa e inmersiva donde los participantes puedan interactuar, ganar o perder Undertango Coins, y aprender sobre los principios fundamentales del mundo cripto a través de actividades dinámicas y simbólicas.
 
 ### Objetivo General:
-Crear una experiencia inmersiva que permita a los participantes de LABITCONF 2024 interactuar con un entorno simulado que refleje los valores y principios esenciales del ecosistema cripto, utilizando una criptomoneda experimental llamada Undertango Coin.
+Crear una experiencia inmersiva que permita a los participantes involucrados interactuar con un entorno simulado que refleje los valores y principios esenciales del ecosistema cripto, utilizando una criptomoneda experimental llamada Undertango Coin.
 
 ### Funcionalidades Principales:
 - **Registro y Acceso:** Los usuarios se registran en la aplicación y reciben una cantidad fija de Undertango Coins.
@@ -22,13 +22,13 @@ Crear una experiencia inmersiva que permita a los participantes de LABITCONF 202
 - **Visualización en Tiempo Real:** La distribución de monedas y la evolución del entorno se proyectan en la sala del evento, mostrando la interacción entre los participantes.
 
 ### Tecnologías Utilizadas:
-- **Frontend:** React Native o Flutter.
+- **Frontend:** Kotlin.
 - **Backend:** Node.js y Firebase.
 - **Base de Datos:** Firestore de Firebase.
 - **Integración Física:** Proyecciones dinámicas y dispositivos IoT para una experiencia inmersiva.
 
 ### Estado del Proyecto:
-Actualmente, el proyecto está en desarrollo, siguiendo un cronograma detallado que abarca desde la configuración inicial del entorno hasta la implementación avanzada de la lógica de interacción cripto. La primera versión beta se lanzará en octubre de 2024, y se planea su presentación oficial durante LABITCONF 2024.
+Actualmente, el proyecto está en desarrollo, siguiendo un cronograma detallado que abarca desde la configuración inicial del entorno hasta la implementación avanzada de la lógica de interacción cripto. La primera versión beta se lanzará en octubre de 2024, y se planea inscribir la obra en el «Premio B·Artes 2024» en el marco de LABITCONF 2024 el 14 de septiembre, de ser aceptado, el proyecto oficial sería desplegado el 1 de noviembre para los participantes de dicha conferencia.
 
 ## Acceso al Proyecto
 
