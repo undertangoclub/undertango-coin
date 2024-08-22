@@ -36,6 +36,7 @@ Para clonar este repositorio, usa el siguiente comando:
 
 ```bash
 git clone https://github.com/undertangoclub/undertango-coin.git
+```
 
 Para una explicación más detallada del proyecto, aquí está el índice, gracias por dedicarnos tu tiempo!
 
