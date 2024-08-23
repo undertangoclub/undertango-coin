@@ -12,17 +12,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Undertangocoin"
         tools:targetApi="31">
+
+        <!-- Cambia la actividad de MainActivity a WelcomeScreen -->
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.screens.WelcomeScreen"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Undertangocoin">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
