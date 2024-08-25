@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Undertangocoin"
         tools:targetApi="31">
 
-        <!-- Cambia la actividad de MainActivity a WelcomeScreen -->
+        <!-- Configuración de la actividad principal WelcomeScreen -->
         <activity
             android:name=".ui.screens.WelcomeScreen"
             android:exported="true"
@@ -24,6 +24,31 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- Declaración de TutorialScreen -->
+        <activity
+            android:name=".ui.screens.TutorialScreen"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Undertangocoin">
+        </activity>
+
+        <!-- Declaración de GameScreen -->
+        <activity
+            android:name=".ui.screens.GameScreen"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Undertangocoin">
+        </activity>
+
+        <!-- Declaración de TradeScreen"-->
+        <activity
+            android:name=".ui.screens.TradeScreen"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Undertangocoin">
+        </activity>
+
 
     </application>
 

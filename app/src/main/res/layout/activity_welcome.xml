@@ -27,6 +27,15 @@
         android:id="@+id/btnPlay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Empezar a Jugar"/>
+        android:text="Empezar a Jugar"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Nuevo Botón para el Mercado de Intercambio -->
+    <Button
+        android:id="@+id/btnTrade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mercado de Intercambio"/>
 
 </LinearLayout>
+

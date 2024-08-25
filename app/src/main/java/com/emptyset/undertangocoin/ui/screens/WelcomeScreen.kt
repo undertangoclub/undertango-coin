@@ -33,6 +33,13 @@ class WelcomeScreen : AppCompatActivity() {
             startActivity(intent)
         }
 
+        // Configurar el listener para el nuevo botón de intercambio
+        binding.btnTrade.setOnClickListener {
+            Log.d("MyApp", "Trade button clicked")
+            val intent = Intent(this, TradeScreen::class.java)
+            startActivity(intent)
+        }
+
         Log.d("MyApp", "WelcomeScreen onCreate finished")
     }
 }
