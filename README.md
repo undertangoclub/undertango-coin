@@ -6,8 +6,6 @@
 
 # UnderTango Coin - Simulación Artística de un Ecosistema Cripto
 
-**Nombre alternativo del proyecto:** "LabitCoinf" Utility Coin
-
 ## Descripción del Proyecto
 
 UnderTango Coin es una innovadora aplicación móvil diseñada para simular un ecosistema de criptomonedas en un entorno cerrado. El objetivo principal es proporcionar una experiencia educativa e inmersiva donde los participantes puedan interactuar, ganar o perder Undertango Coins, y aprender sobre los principios fundamentales del mundo cripto a través de actividades dinámicas y simbólicas.
