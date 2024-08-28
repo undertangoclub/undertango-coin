@@ -1,6 +1,29 @@
 <resources>
+    <!-- Nombre de la aplicación -->
     <string name="app_name">Undertango Coin</string>
+
+    <!-- Mensajes de bienvenida -->
     <string name="welcome_message">¡Bienvenido a Undertango Coin!</string>
     <string name="game_welcome_message">Bienvenido al Juego</string>
-    <!-- Añade otras cadenas aquí según sea necesario -->
+
+    <!-- ID de cliente web para autenticación de Google -->
+    <string name="default_web_client_id">205491602731-8dmiqdv6g4q2giuj96j21vsbc07vr9qk.apps.googleusercontent.com</string>
+
+    <!-- Mensajes de registro -->
+    <string name="register_screen_title">Pantalla de Registro</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="register_button_text">Registrar</string>
+    <string name="google_sign_in_text">Iniciar sesión con Google</string>
+
+    <!-- Mensajes para el proceso de registro -->
+    <string name="register_message">Por favor, ingrese correo electrónico y contraseña.</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="register_error">Error en el registro: </string>
+
+    <!-- Otros mensajes comunes -->
+    <string name="email_invalid">Correo electrónico no válido</string>
+    <string name="password_invalid">Contraseña no válida, debe tener al menos 6 caracteres</string>
+    <string name="sign_in_failed">Error al iniciar sesión</string>
+    <string name="sign_in_success">Inicio de sesión exitoso</string>
 </resources>

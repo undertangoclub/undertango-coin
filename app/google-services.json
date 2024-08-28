@@ -12,7 +12,20 @@
           "package_name": "com.emptyset.undertangocoin"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "205491602731-p4c32nm968rt680gi09tolnsduelitpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emptyset.undertangocoin",
+            "certificate_hash": "b9b9d8678b900da3815422986bf26d86c4df7516"
+          }
+        },
+        {
+          "client_id": "205491602731-8dmiqdv6g4q2giuj96j21vsbc07vr9qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBwJsvzbSRxTTDTcDdJGax8XQOK_szXBXI"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205491602731-8dmiqdv6g4q2giuj96j21vsbc07vr9qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

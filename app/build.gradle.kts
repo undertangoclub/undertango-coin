@@ -60,11 +60,24 @@ dependencies {
     // Firebase dependencies
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.analytics)
+    implementation(libs.firebase.auth)
+    implementation(libs.play.services.auth)
+
+    // Google Identity Services
+    implementation(libs.play.services.auth.api.phone)
+    implementation(libs.play.services.auth)
+
+    // Identity Credential
+    implementation(libs.androidx.credentials)
+    implementation(libs.androidx.credentials.play.services.auth)
+
+    // Google ID
+    implementation(libs.google.identity)
 
     // AndroidX Core
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
-    implementation(libs.androidx.appcompat) // AppCompat para compatibilidad
+    implementation(libs.androidx.appcompat)
 
     // Compose dependencies
     implementation(libs.androidx.activity.compose)
@@ -73,6 +86,10 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+
+    // Coroutines
+    implementation(libs.kotlinx.coroutines.android)
+    implementation(libs.kotlinx.coroutines.play.services)
 
     // Test dependencies
     testImplementation(libs.junit)
@@ -86,5 +103,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     // Kotlin dependencies
-    implementation(kotlin("script-runtime"))
+    implementation(kotlin("stdlib"))
+    implementation(kotlin("reflect"))
 }
