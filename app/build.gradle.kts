@@ -79,6 +79,9 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.appcompat)
 
+    implementation(libs.androidx.lifecycle.runtime.ktx.v260)
+
+
     // Compose dependencies
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))
@@ -90,6 +93,7 @@ dependencies {
     // Coroutines
     implementation(libs.kotlinx.coroutines.android)
     implementation(libs.kotlinx.coroutines.play.services)
+    implementation(libs.firebase.firestore.ktx)
 
     // Test dependencies
     testImplementation(libs.junit)

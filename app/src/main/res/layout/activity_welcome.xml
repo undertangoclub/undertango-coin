@@ -30,12 +30,18 @@
         android:text="Empezar a Jugar"
         android:layout_marginBottom="16dp"/>
 
-    <!-- Nuevo Botón para el Mercado de Intercambio -->
     <Button
         android:id="@+id/btnTrade"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mercado de Intercambio"/>
+        android:text="Mercado de Intercambio"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Nuevo Botón para Registrarse -->
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrarse"/>
 
 </LinearLayout>
-
