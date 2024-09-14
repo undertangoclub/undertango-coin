@@ -42,21 +42,22 @@ Para una explicación más detallada del proyecto, aquí está el índice, graci
 
 ## Índice
 
-* [Índice](#índice)
-* [Descripción del proyecto](#descripción-del-proyecto)
-* [Estado del proyecto](#estado-del-proyecto)
-* [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
-* [Acceso al proyecto](#acceso-al-proyecto)
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Personas Contribuyentes](#personas-contribuyentes)
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
-* [Cronograma General](#cronograma-general)
-* [Presupuesto](#presupuesto)
-* [Plan de Contingencia](#plan-de-contingencia)
-* [Curriculum de Pablo Guillermo Cieslik](#curriculum-de-pablo-guillermo-cieslik)
-* [Descripción General de la Dinámica del Proyecto](#descripción-general-de-la-dinámica-del-proyecto)
-* [Conclusión](#conclusión)
-* [Licencia](#licencia)
+## Índice
+
+* [Descripción del Proyecto](#descripción-del-proyecto)
+* [Objetivo General](#objetivo-general)
+* [Funcionalidades Principales](#funcionalidades-principales)
+* [Tecnologías Utilizadas](#tecnologías-utilizadas)
+* [Estado del Proyecto](#estado-del-proyecto)
+* [Acceso al Proyecto](#acceso-al-proyecto)
+* [Cronograma General](#4-cronograma-general)
+* [Presupuesto](#5-presupuesto)
+* [Plan de Contingencia](#6-plan-de-contingencia)
+* [Curriculum de Pablo Guillermo Cieslik](#7-curriculum-de-pablo-guillermo-cieslik)
+* [Conclusión](#8-conclusión)
+* [Descripción General de la Dinámica del Proyecto](#9-descripción-general-de-la-dinámica-del-proyecto)
+* [Ø Los 17 Principios](#ø-los-17-principios)
+* [Autor de este repositorio](#autor-de-este-repositorio)
 
 
 
@@ -302,7 +303,7 @@ Desarrollador Full Stack y director de proyectos con experiencia en la intersecc
 - **Arte Generativo y Consultoría:** Integración de arte digital y tecnología blockchain en experiencias interactivas.
 
 ### Idiomas
-- Inglés (Avanzado), Portugués (Profesional), Alemán (Intermedio).
+- Inglés (Avanzado), Portugués (Profesional), Alemán (Principiante).
 
 ### Contacto
 - **Correo:** pablocieslik@gmail.com
