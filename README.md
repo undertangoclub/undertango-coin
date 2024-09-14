@@ -1,10 +1,10 @@
-# undertango-coin
+# Undertango-Cøin
 <em> Ø UnderTango Cøin - Mobil Proyect Ø v0.1</em>
 ![B·Artes 2024](https://img.shields.io/badge/B%C2%B7Artes-2024-blue) ![Ø #Art #Logic #Technology](https://img.shields.io/badge/%C3%98-%23Art_%23Logic_%23Technology-8A2BE2)
 
 ![Ø UnderTango Banner](https://github.com/user-attachments/assets/8b29173e-e846-4402-9070-1f5a13bae786)
 
-# UnderTango Coin - Simulación Artística de un Ecosistema Cripto
+# UnderTango Ø Coin - Simulación Artística de un Ecosistema Cripto
 
 ## Descripción del Proyecto
 
@@ -20,20 +20,20 @@ Crear una experiencia inmersiva que permita a los participantes involucrados int
 - **Visualización en Tiempo Real:** La distribución de monedas y la evolución del entorno se proyectan en la sala del evento, mostrando la interacción entre los participantes.
 
 ### Tecnologías Utilizadas:
-- **Frontend:** Kotlin.
+- **Frontend:** Kotlin, Flutter / Html, JS & Css
 - **Backend:** Node.js y Firebase.
 - **Base de Datos:** Firestore de Firebase.
 - **Integración Física:** Proyecciones dinámicas y dispositivos IoT para una experiencia inmersiva.
 
 ### Estado del Proyecto:
-Actualmente, el proyecto está en desarrollo, siguiendo un cronograma detallado que abarca desde la configuración inicial del entorno hasta la implementación avanzada de la lógica de interacción cripto. La primera versión beta se lanzará en octubre de 2024, y se planea inscribir la obra en el «Premio B·Artes 2024» en el marco de LABITCONF 2024 el 14 de septiembre, de ser aceptado, el proyecto oficial sería desplegado el 1 de noviembre para los participantes de dicha conferencia.
+Actualmente, disponemos de una versión web del prototipo actualizada diariamente y disponible para libre exploración por parte del jurado del Premio B·Artes, Miembros de UnderTango Club y allegados de la UTN (Universidad Tecnológica Nacional) y el MIA (Misiones Innovación Abierta).  
 
 ## Acceso al Proyecto
 
-Para clonar este repositorio, usa el siguiente comando:
+La dirección fija oficial al prototipo es:
 
 ```bash
-git clone https://github.com/undertangoclub/undertango-coin.git
+[https://undertango.web.app/ut-coin/](https://www.undertangoclub.com/ut-coin/)
 ```
 
 Para una explicación más detallada del proyecto, aquí está el índice, gracias por dedicarnos tu tiempo!
@@ -56,15 +56,17 @@ Para una explicación más detallada del proyecto, aquí está el índice, graci
 * [Conclusión](#conclusión)
 * [Licencia](#licencia)
 
+```bash
+[Ambientación sonora](https://open.spotify.com/intl-es/track/1iYK1r4WwGfIitKODja3Zo)
+```
 
-
-Documento del Proyecto: 
+##Documento del Proyecto: 
 
 Undertango <Happening> Cøin 
 Simulación Artística de un Ecosistema Cripto
 Nombre alternativo del proyecto: “LabitCoinf” Utility Coin
 
-Parte I
+###Parte I
 1. Resumen Ejecutivo
 Este proyecto consiste en desarrollar una aplicación móvil (llamada en este documento como Undertango Coin), la cual simula un ecosistema de criptomonedas dentro de un entorno cerrado, específicamente en el contexto de LABITCONF 2024. Los participantes podrán interactuar y ganar o perder Undertango Coins a través de actividades que representen los principios fundamentales del mundo cripto. La aplicación permitirá a los usuarios influir en su entorno físico a través de interacciones IoT (Internet of Things), creando una experiencia inmersiva donde las criptomonedas y las acciones de los participantes en el mundo real se entrelazan.
 
