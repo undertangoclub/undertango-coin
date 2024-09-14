@@ -38,6 +38,8 @@ El prototipo del proyecto puede accesarse aquí:
 
 Para una explicación más detallada del proyecto, aquí está el índice, gracias por dedicarnos tu tiempo!
 
+[Playlist para acompañar la lectura](https://open.spotify.com/intl-es/track/1iYK1r4WwGfIitKODja3Zo)
+
 ## Índice
 
 * [Índice](#índice)
@@ -56,8 +58,6 @@ Para una explicación más detallada del proyecto, aquí está el índice, graci
 * [Conclusión](#conclusión)
 * [Licencia](#licencia)
 
-
-[Ambientación sonora](https://open.spotify.com/intl-es/track/1iYK1r4WwGfIitKODja3Zo)
 
 
 ## Documento del Proyecto: 
@@ -114,305 +114,270 @@ Etherscan/BSCscan: Integración con exploradores de blockchain para que los usua
 Dispositivos IoT: Implementación de dispositivos que respondan a las transacciones y movimientos dentro del evento (por ejemplo, luces o artefactos que reaccionen al movimiento de las Undertango Coins), creando un entorno más inmersivo y responsivo.
 
 ## 4. Cronograma General
-Agosto:
-Semana 1 (18-20 agosto):
+
+### Agosto:
+
+#### Semana 1 (18-20 agosto):
 Finalización del documento.
 Chequeo y configuración de herramientas de desarrollo.
 Instalación de React Native y configuración inicial de Git y GitHub.
-Semana 2 (21-26 agosto):
+
+#### Semana 2 (21-26 agosto):
 Configuración completa del entorno de desarrollo.
 Definición final de la arquitectura tecnológica y documentación.
-Septiembre:
-Semana 3 (27 agosto - 2 septiembre):
+
+### Septiembre:
+
+#### Semana 3 (27 agosto - 2 septiembre):
 Desarrollo del backend en Node.js y Firebase Functions.
 Configuración y diseño de la base de datos en Firestore.
-Semana 4 (3-9 septiembre):
-Desarrollo de la interfaz de usuario en Android.
+
+#### Semana 4 (3-9 septiembre):
+Desarrollo de la interfaz de usuario en el prototipo web.
 Integración del frontend con el backend.
-Semana 5 (10-16 septiembre):
+
+#### Semana 5 (10-16 septiembre):
 Implementación de la lógica de interacción basada en principios cripto.
 Pruebas iniciales y correcciones.
-Semana 6 (17-23 septiembre):
+Apertura de uso para beta testers.
+
+#### Semana 6 (17-23 septiembre):
 Implementación avanzada del minado simulado.
-Desarrollo de la sala interactiva con proyecciones e IoT.
-Octubre:
-Semana 7 (24-30 septiembre):
+Refinamiento y depuración de las interacciones dentro de la plataforma.
+
+### Octubre:
+
+#### Semana 7 (24-30 septiembre):
 Pruebas de carga y optimización.
-Traspolación a iOs con XCode
+Desarrollo del prototipo de la app móvil.
 Documentación del código y preparación para la beta.
-Semana 8 (1-7 octubre):
-Lanzamiento de la versión beta.
+
+#### Semana 8 (1-7 octubre):
+Lanzamiento de la versión beta de la app móvil.
 Ajustes finales y resolución de errores.
-Semana 9 (8-15 octubre):
+
+#### Semana 9 (8-15 octubre):
 Preparación del entorno físico y ensayos.
-Semana 10 (16-22 octubre):
+
+#### Semana 10 (16-22 octubre):
 Promoción de la aplicación y ensayos generales.
-Semana 11 (23-31 octubre):
+Ventana de cierre para el agregado de sofisticaciones a la lógica central.
+
+#### Semana 11 (23-31 octubre):
 Ajustes finales y preparación para LABITCONF.
-Noviembre:
-Semana 12 (1-2 noviembre):
+
+### Noviembre:
+#### Semana 12 (1-2 noviembre):
 Montaje final y presentación en LABITCONF.
-Premiación y cierre del evento.
+Conversión oficial de las UnderTango Coins en Bitcoins y repartición acorde al ranking de jugadores.
 
 Este cronograma resume de manera concisa lo que se realizará cada semana, brindando una visión general clara y directa de las actividades planificadas. (Para un desglose técnico de lo aquí abordado, dirigirse a II-1: Cronograma Técnico Detallado en este mismo documento.
 
 
+## 5. Presupuesto
+### 1. **Desarrollo de Software**
 
-5. Presupuesto
-$500 para Desarrollo y Valor Real de la Criptomoneda:
-Distribución entre los usuarios como parte de las Undertango Coins.
-Desarrollo y diseño de la criptomoneda dentro de la aplicación.
+#### a. Programador Principal (Pablo Cieslik)
+- **Costo:** $0 USD (Trabajo propio)
 
-$500 para Honorarios y Costos Operativos:
-Pago de honorarios para los desarrolladores y creativos involucrados.
-Costos asociados a la implementación técnica y logística.
+#### b. Programador Ayudante (Experto en Flutter)
+- **Costo:** $400 USD (Pago único por asistencia en desarrollo de la app móvil y soporte general)
 
-6. Plan de Contingencia
-Riesgo Técnico: Posibles retrasos en la implementación debido a problemas técnicos.
-Mitigación: Desarrollo en sprints semanales con revisiones continuas.
+#### **Subtotal Desarrollo:** $400 USD  
 
-Riesgo de Interacción: Dificultades en la participación del público o malentendidos sobre el uso de la aplicación.
-Mitigación: Incluir un tutorial inicial y soporte durante el evento.
+---
 
-7. Curriculum de Pablo Guillermo Cieslik
-Pablo Guillermo Cieslik es un profesional multidisciplinario con una destacada experiencia en la intersección de arte, tecnología y finanzas descentralizadas. Como fundador de UnderTango Club Ø y creador del concepto UnderTango Coin, ha liderado proyectos que integran innovación tecnológica con expresiones artísticas, abarcando desde la gestión de proyectos tecnológicos hasta la implementación de soluciones en el ámbito del blockchain y el IoT.
+### 2. **Infraestructura y Herramientas**
 
-Educación y Certificaciones:
-NAVES USA 2024, IAE Business School: Programa avanzado en gestión de proyectos y negocios internacionales.
-Certificación en Alfabetización Financiera, Lectera: Formación en gestión de ingresos y gastos, fundamental para la comprensión de economías descentralizadas.
-Fundamentos de la Gestión de Proyectos, Google: Certificación en metodologías ágiles y herramientas de gestión de proyectos.
-Técnico en Robótica, Universidad de la Marina Mercante: Formación especializada en robótica y automatización, con énfasis en la programación de sistemas embebidos como Arduino.
-Certificación en Programación Web, Egg Live: Capacitación en desarrollo web desde cero, con énfasis en JavaScript, HTML y frameworks modernos.
-Arte Generativo: Taller Introductorio, Ministerio de Cultura de la Nación Argentina: Formación en la integración de arte y tecnología, aplicando programación a la creación artística.
-Certificado de Unity Essentials Pathway, Unity: Dominio de la creación de entornos virtuales y programación de interactividad en videojuegos y aplicaciones 3D.
-Habilidades Clave:
-Gestión de Proyectos: Amplia experiencia en la planificación y ejecución de proyectos complejos, integrando equipos multidisciplinarios y manejando recursos de manera eficiente.
-Programación y Desarrollo: Competencias en múltiples lenguajes de programación y plataformas tecnológicas, incluyendo JavaScript, Solidity, Arduino, y Unity.
-Consultoría en Arte y Tecnología: Asesoramiento en la implementación de proyectos que combinan arte digital, tecnología blockchain y experiencias interactivas.
-Innovación en FinTech y DeFi: Desarrollo de soluciones innovadoras en el ámbito de las finanzas descentralizadas, con un enfoque en la educación y la inclusión financiera a través de la tecnología.
-Con una carrera que fusiona la lógica del desarrollo tecnológico con la creatividad artística, Pablo Guillermo Cieslik se posiciona como un líder en proyectos que buscan romper las barreras tradicionales entre arte, tecnología y economía, creando experiencias transformadoras y altamente significativas.
+- **Servicios de Firebase (Base de Datos, Hosting, Autenticación):** $100 USD (1 mes)
+- **Dominio Web (undertangoclub.com):** $0 USD (Ya está pago)
+- **Certificado SSL:** $80 USD/año (para mantener la seguridad en el sitio web)
+- **Servidores para Aplicación Web:** $50 USD (1 mes)
 
-8. Conclusión
-El proyecto Undertango Coin no solo es una intervención artística, sino también una herramienta educativa que permitirá a los asistentes de LABITCONF 2024 experimentar y entender los principios del ecosistema cripto de una manera inmersiva e interactiva. Esta propuesta está cuidadosamente planificada para ser entregada a tiempo y ejecutada con éxito durante el evento, ofreciendo una experiencia única que combinará arte, tecnología, y educación en un solo lugar.
-Habiendo expuesto los rudimentos básicos de nuestro proyecto, pasamos ahora a la descripción más precisa del mismo.
+#### **Subtotal Infraestructura:** $230 USD  
 
-9. Descripción General de la Dinámica del Proyecto
-9.1. Concepto Central del Happening
-Undertango Coin es más que una simple simulación de criptomonedas; es una experiencia interactiva que busca sumergir a los participantes en el corazón de lo que significa un ecosistema descentralizado. La interacción no solo será digital sino que tendrá repercusiones en el entorno físico, permitiendo a los usuarios experimentar de primera mano la interrelación entre la tecnología blockchain, los principios cripto y las decisiones individuales que afectan tanto al entorno digital como al real.
+---
 
-9.2. Interacción y Gamificación
-Distribución Inicial de Undertango Coins:
-Al ingresar al evento y registrarse en la aplicación, cada usuario recibirá una cantidad fija de Undertango Coins. Este punto de partida será igual para todos, simbolizando la igualdad de condiciones en un entorno descentralizado.
+### 3. **Marketing y Promoción (Opcional)**
 
-Actividades para Ganar/Pérdida de Undertango Coins:
-Los usuarios podrán ganar o perder monedas participando en actividades que reflejen los 17 principios fundamentales del mundo cripto. Cada actividad o interacción estará diseñada para enseñar y poner en práctica estos principios, incentivando comportamientos que promuevan la descentralización, la soberanía individual, y la privacidad, entre otros.
-Ejemplo: Un usuario publica una imagen impactante en el mural digital que refleja un concepto importante como la **libertad de expresión**. El usuario asigna un precio a ese espacio en Undertango Coins, permitiendo que otros usuarios interactúen con su publicación. Otros participantes encuentran la publicación valiosa y, en lugar de simplemente darle "like", deciden pagar una pequeña cantidad de Undertango Coins para mostrar su aprecio por el contenido. Estas monedas se acumulan, pero para que el usuario original reciba la recompensa, debe reclamar activamente las monedas dentro de la aplicación.
-Sin embargo, si otro usuario decide que el espacio ocupado por esa publicación es estratégicamente valioso, puede optar por **comprar** el espacio pagando el precio asignado. Si esto ocurre antes de que el autor original haya reclamado sus recompensas, las monedas tributadas por los "likes" anteriores se **queman**, es decir, se eliminan del sistema, y el nuevo propietario del espacio puede publicar su propio contenido.
-Este escenario crea una dinámica donde los usuarios aprenden en tiempo real sobre conceptos como la **escasez** y el **valor fluctuante** dentro de un sistema descentralizado. La acción de no reclamar las recompensas a tiempo enseña la importancia de la **auto custodia** y la **oportunidad en los mercados cripto**, mientras que la posibilidad de comprar espacios valiosos introduce a los participantes en la idea de **estrategia y especulación**. Además, la quema de monedas tras la compra del espacio refleja el principio de **escasez absoluta**, demostrando cómo las decisiones dentro de un sistema cripto pueden tener consecuencias directas e irreversibles.
-Nota: Las monedas “quemadas” son repartidas al final de la jornada entre los 3 usuarios con más criptomonedas, los 3 usuarios con menos criptomonedas y 5 usuarios con mayor imagen positiva (punto que se detallará mas adelante). 
-Al final de la jornada las UnderTango Coins pueden ser canjeadas por usdt, bitcoins u otra criptomoneda preferente por los usuarios. Se dedicará un porcentaje del presupuesto para los gastos de gas fee asociados a estas transacciones, asegurando que el proceso de conversión sea fluido y accesible para todos los usuarios.
+- **Material Promocional para LABITCONF:** $100 USD (impresiones básicas y algún banner simple)
+- **Costo de Participación en LABITCONF:** $1,000 USD
 
-Minado Simulado:
-Una parte de las monedas estará disponible para ser "minada" a través de interacciones específicas. Este proceso de minado no requerirá recursos físicos, sino que se basará en acciones simbólicas dentro del evento que representen los principios cripto.
-Ejemplo: Los participantes podrían "minar" Undertango Coins al hacer su primer transacción, dar me gusta a alguna publicación en el muro digital u otra actividad acorde a la dinámica interna propuesta por la aplicación.
+#### **Subtotal Marketing (Opcional):** $1,100 USD  
 
-9.3. Interacción con el Entorno Físico a través de IoT
-Iluminación y Proyecciones:
-Se dispondrán luces, proyectores, y otros dispositivos interactivos que los usuarios podrán controlar invirtiendo sus Undertango Coins. Por ejemplo, se programará un evento cada 30 minutos en el que se iluminará automáticamente a la persona con la mayor cantidad de Undertango Coins en la sala. Esta persona tendrá la opción de **activar** la luz para ser iluminada, o **delegar** la iluminación a la siguiente persona con la mayor cantidad de criptomonedas. La segunda persona, al recibir la posibilidad, puede optar por ser iluminada o pasar la luz nuevamente, creando una cadena de decisiones que refleja la **descentralización** y la **distribución de poder** dentro del ecosistema cripto.
-La dinámica de estos mecanismos está diseñada con la intención de reforzar las ideas fundamentales del espíritu bitcoiner, simbolizando, por ejemplo, la **libertad de expresión** y la **soberanía individual**. En este entorno, cada participante tiene la capacidad de decidir su propio rol dentro del evento, operando bajo reglas claras y preestablecidas. Estas interacciones permiten a los usuarios experimentar de manera tangible los principios de **autonomía**, **descentralización**, y **responsabilidad personal**, que son pilares en el mundo de las criptomonedas y la filosofía que las sustenta. De esta manera, el evento no solo educa sobre los conceptos teóricos del ecosistema cripto, sino que también permite a los participantes vivirlos y aplicarlos en tiempo real.
+---
 
-9.4. Ejemplos de Actividades y Principios Asociados
+### 4. **Plan de Contingencia**
 
-Actividad: Creación de Identidad Digital:
-Principio Asociado: Identidad Digital
-Descripción: Los participantes podrán crear una identidad digital dentro de la aplicación, personalizándola y asociándola con sus interacciones. Esta identidad servirá para registrar sus logros y transacciones, mostrando la importancia de una identidad segura y controlada por el usuario en el mundo digital.
+- **Reserva para Contingencias Técnicas:** 10% del costo total ajustado = $63 USD (sin incluir extras)
 
-Actividad: Verificación de Transacciones:
-Principio Asociado: Verificar vs Confiar
-Descripción: Los participantes podrán revisar las transacciones en tiempo real usando un explorador de blockchain simulado en la aplicación. Esto les enseñará la importancia de la transparencia y la verificación en un entorno descentralizado.
+#### **Subtotal Contingencia:** $63 USD  
 
-Actividad: Participación en Decisiones Colectivas:
-Principio Asociado: Descentralización
-Descripción: Durante el evento, los participantes podrán votar sobre ciertos aspectos del entorno, como la música, iluminación o proyecciones. Esta actividad demostrará cómo la descentralización permite la participación equitativa en la toma de decisiones.
+---
 
-9.5. Proyecciones Físicas y Visuales
-Proyecciones Dinámicas en la Sala:
-Las interacciones y decisiones dentro de la aplicación se proyectarán en tiempo real, creando un entorno visual que evoluciona con el comportamiento de los participantes. Esto incluye la visualización de flujos de monedas, conexiones entre usuarios, y la "iluminación" de aquellos que cumplen con los criterios establecidos.
+### 5. **Otros Gastos**
 
-Mural Digital Interactivo:
-Un mural digital en la sala permitirá que los usuarios dejen sus marcas, pensamientos o arte, que estarán asociados a su identidad digital y serán parte del legado del evento. Este mural evolucionará con la participación, reflejando la diversidad de pensamientos y acciones dentro del ecosistema cripto.
+- **Licencias de Software (herramientas de desarrollo, diseño):** $150 USD
+- **Asesoría Legal Básica (Opcional):** $500 USD (Consultas mínimas para orientación en el ámbito legal)
 
-9.6 Resultado y Evaluación
-Evaluación de la Experiencia:
-Al final del evento, los resultados de las interacciones (quiénes acumularon más monedas, quiénes fueron más iluminados, etc.) serán analizados y presentados como una forma de reflexionar sobre la dinámica de poder y decisiones en un entorno cripto.
+#### **Subtotal Otros Gastos:** $150 USD (con asesoría legal: $650 USD)
 
-Premiación:
-Los participantes más destacados en términos de adherencia a los principios cripto y su capacidad para influir positivamente en el entorno recibirán un reconocimiento especial, que podría incluir una recompensa adicional en Undertango Coins o en otras formas de reconocimiento digital.
+---
 
-Este nivel de detalle permite que todos los involucrados comprendan no solo la estructura y propósito del happening, sino también la forma en que los principios del ecosistema cripto se manifestarán en las interacciones de los participantes.
+### **Desglose Total del Presupuesto:**
 
-Parte II: Aspectos Técnicos
+1. **Con Marketing y Promoción + Asesoría Legal:**
+   - **Desarrollo:** $400 USD
+   - **Infraestructura:** $230 USD
+   - **Marketing (Opcional):** $1,100 USD
+   - **Contingencia:** $173 USD (10% del total sin extras)
+   - **Otros Gastos (con asesoría legal):** $650 USD
+   
+   **Total:** **$2,553 USD**
 
-Habiendo presentado una descripción global de nuestra propuesta (desde el punto 1 al 8) y una explicación general de la mecánica que buscamos implementar con este proyecto (punto 9), ahora procederemos a abordar los aspectos más técnicos y detallados. Esta sección se centrará en el paso a paso, a través de un cronograma específico, de las herramientas de programación y hardware que emplearemos para llevar a cabo nuestro proyecto. Esta parte del documento es quizás la más crucial, ya que es donde demostramos la pericia técnica necesaria para garantizar la viabilidad del proyecto. La viabilidad del mismo está respaldada por un conocimiento sólido y preciso en lenguajes de programación, herramientas de desarrollo de criptomonedas, y lógicas criptográficas.
+2. **Con Marketing y Promoción (Sin Asesoría Legal):**
+   - **Desarrollo:** $400 USD
+   - **Infraestructura:** $230 USD
+   - **Marketing (Opcional):** $1,100 USD
+   - **Contingencia:** $168 USD
+   - **Otros Gastos (sin asesoría legal):** $150 USD
 
-Además, queremos destacar que, en caso de que este proyecto sea seleccionado, estamos completamente dispuestos a colaborar con la organización para adaptarlo de la mejor manera posible a los objetivos del evento. Esto incluye tanto la promoción de una lógica social coherente dentro del evento como asegurar una comunicación efectiva y fluida entre el equipo técnico del evento y nuestros técnicos. Nuestro objetivo es garantizar un funcionamiento óptimo y sin contratiempos, creando una experiencia inmersiva en un universo criptográfico próspero y emocionante para todos los involucrados a través de dos principios que nos acompañan siempre: 
-1) De dos soluciones, la más simple suele ser la mejor 
-2) Si no está roto no es necesario arreglarlo 
+   **Total:** **$2,048 USD**
 
-Cronograma Técnico Detallado
+3. **Sin Marketing y Promoción + Con Asesoría Legal:**
+   - **Desarrollo:** $400 USD
+   - **Infraestructura:** $230 USD
+   - **Contingencia:** $63 USD
+   - **Otros Gastos (con asesoría legal):** $650 USD
 
-Agosto: Configuración y Desarrollo Inicial
+   **Total:** **$1,343 USD**
 
-Semana 1 (18-19 agosto):
-18 de agosto:
-Finalización del Documento: Nace la versión inicial del documento del proyecto.
-Configuración Inicial:
-Android Studio actualizado a la última versión.
-Verificación de las herramientas de desarrollo necesarias.
-Exploración y revisión de la documentación de Kotlin.
-GitHub y Git:
-Creación del repositorio en GitHub.
-Integración de Git en Android Studio y Visual Studio Code.
-19 de agosto:
-Configuración de Kotlin y Gradle:
-Verificación y configuración correcta de Kotlin y Gradle.
-Sincronización completa del proyecto en Android Studio.
-Configuración de GitHub:
-Conexión exitosa del proyecto a GitHub.
-Realización de un commit inicial y push al repositorio remoto.
-Revisión del Entorno de Desarrollo:
-Ejecución del proyecto en un emulador para confirmar que todo funciona correctamente.
-Identificación y solución de posibles errores (ej. ajuste de JAVA_HOME y JDK).
-Semana 2 (20-26 agosto):
-20 de agosto (Mañana):
-Configuración de Firebase:
-Integración de Firebase en el proyecto.
-Configuración de Firebase Analytics y otras herramientas básicas de Firebase (como Authentication y Firestore).
-Configuración de ProGuard:
-Configurar ProGuard para optimizar el código y reducir el tamaño del APK.
-Asegurar la configuración correcta de los archivos proguard-rules.pro.
-21 de agosto:
-Estructura de Firestore:
-Definición y configuración de la estructura de la base de datos en Firestore.
-Creación de colecciones y documentos iniciales, asegurando que estén alineados con la arquitectura planeada.
-README y Documentación Inicial:
-Creación de un archivo README.md en el repositorio de GitHub, incluyendo una descripción clara del proyecto y sus objetivos.
-Documentación de las configuraciones y dependencias utilizadas hasta el momento.
-22-23 de agosto:
-Configuración Completa del Entorno de Desarrollo:
-Finalización de la configuración de todos los entornos de desarrollo necesarios.
-Pruebas de integración para asegurar que todo esté funcionando como se espera.
-Documentar cualquier cambio o ajuste realizado durante la configuración.
-24-26 de agosto:
-Definición Final de la Arquitectura Tecnológica:
-Finalización de la estructura del proyecto y la arquitectura del software.
-Diagramación de flujos de datos y estructura de carpetas.
-Revisión y documentación técnica de la arquitectura final para guiar el desarrollo posterior.
-Septiembre: Desarrollo del Backend, Frontend y Lógica de Interacción
-Semana 3 (27 agosto - 2 septiembre):
-Desarrollo del Backend en Kotlin y Firebase Functions:
-Configuración del backend utilizando Kotlin y Firebase Functions.
-Implementación de la lógica para el manejo de usuarios y distribución inicial de Undertango Coins.
-Configuración y diseño detallado de la base de datos en Firestore.
-Semana 4 (3-9 septiembre):
-Desarrollo de la Interfaz de Usuario en Android con Kotlin:
-Implementación de las pantallas principales (Registro, Login, Dashboard de Undertango Coins).
-Integración del frontend con el backend.
-Pruebas de flujo completo desde el registro hasta la recepción de monedas en la app.
-Semana 5 (10-16 septiembre):
-Implementación de la Lógica de Interacción Basada en Principios Cripto:
-Desarrollar la lógica que permita a los usuarios ganar o perder monedas según sus interacciones.
-Implementación del "minado" simulado en la app.
-Pruebas y correcciones iniciales.
-Semana 6 (17-23 septiembre):
-Implementación Avanzada del Minado Simulado:
-Refinar el proceso de minado simulado y conectar con eventos dentro de la app.
-Desarrollo de la sala interactiva con proyecciones e IoT.
-Octubre: Pruebas Finales, Optimización, y Preparación para LABITCONF
-Semana 7 (24-30 septiembre):
-Pruebas de Carga y Optimización:
-Realizar pruebas de carga y optimizar el rendimiento de la app.
-Documentación del código y preparación para la versión beta.
-Semana 8 (1-7 octubre):
-Lanzamiento de la Versión Beta:
-Distribución de la beta a testers seleccionados.
-Ajustes finales y corrección de errores basados en el feedback recibido.
-Semana 9 (8-15 octubre):
-Preparación del Entorno Físico y Ensayos:
-Configuración del entorno físico con dispositivos IoT.
-Realización de ensayos para asegurar la integración entre la app y el entorno físico.
-Semana 10 (16-22 octubre):
-Promoción de la Aplicación y Ensayos Generales:
-Creación y ejecución de campañas promocionales.
-Ensayos generales para simular el evento real y verificar el flujo de interacción.
-Semana 11 (23-31 octubre):
-Ajustes Finales y Preparación para LABITCONF:
-Revisión final de la app y el entorno físico.
-Implementación de ajustes menores en base a la retroalimentación obtenida.
-Noviembre: Presentación en LABITCONF 2024
-Semana 12 (1-2 noviembre):
-Montaje Final y Presentación en LABITCONF:
-Montaje y verificación final de todos los sistemas en el espacio asignado.
-Monitoreo y ajuste en tiempo real durante la presentación.
-Premiación y Cierre del Evento:
-Interacción con los participantes, monitoreo de la app y entrega de premios a los usuarios destacados.
+4. **Sin Marketing y Promoción (Sin Asesoría Legal):**
+   - **Desarrollo:** $400 USD
+   - **Infraestructura:** $230 USD
+   - **Contingencia:** $63 USD
+   - **Otros Gastos (sin asesoría legal):** $150 USD
 
-Este cronograma expandido asegura que cada aspecto del proyecto esté cubierto desde la preparación inicial hasta la presentación final en LABITCONF 2024. Se centra en la prueba y optimización continua, garantizando que la aplicación y las interacciones funcionen sin problemas durante el evento.
+   **Total:** **$843 USD**
+
+---
+
+### **Notas Adicionales:**
+
+- **Trabajo propio:** La mayor parte del desarrollo y prototipado la realiza Pablo Cieslik, lo que reduce significativamente los costos.
+- **Programador Ayudante:** El ayudante experto en Flutter colaborará en la aplicación móvil y asistirá en otras tareas necesarias.
+- **Infraestructura Básica:** Contratación de servicios por un solo mes para Firebase y servidores.
+- **Marketing y Promoción:** Opcional, pero recomendado para mayor visibilidad y éxito en LABITCONF.
+- **Asesoría Legal:** Es un gasto adicional opcional en caso de que se decida avanzar en la tokenización real del proyecto.
+
+---
+
+## 6. Plan de Contingencia
+
+### Riesgo Técnico
+- **Descripción:** Posibles retrasos en la implementación debido a problemas técnicos, como errores de código o dificultades con la integración de Firebase.
+- **Mitigación:** Desarrollo en sprints semanales con revisiones continuas. Implementar pruebas unitarias y de integración para detectar y solucionar problemas rápidamente. Mantener un respaldo regular del código y de la base de datos.
+
+### Riesgo de Interacción
+- **Descripción:** Dificultades en la participación del público o malentendidos sobre el uso de la aplicación, afectando la experiencia general.
+- **Mitigación:** Incluir un tutorial interactivo inicial en la aplicación. Proporcionar un equipo de soporte presencial y remoto durante el evento para orientar a los participantes y resolver dudas. Recopilar comentarios de los usuarios en tiempo real para realizar ajustes rápidos si es necesario.
 
 
-Parte III
-Dinámica de la aplicación
-La dinámica de la aplicación se organiza en 4 módulos, cada uno de los cuales ofrece diferentes formas de interacción para los usuarios. Los participantes pueden interactuar con estos módulos de manera independiente y asincrónica, lo que les permite disfrutar de la experiencia a su propio ritmo.
-Módulo 0 (Inicio): Primer Paso
-0.1 El usuario se informa sobre la aplicación y se le invita a descargarla.
-Módulo 1: Registro y Tutorial
-1.0 El usuario descarga la aplicación, se registra y accede a su cuenta. 1.1 La aplicación ofrece un tutorial claro y completo sobre la interfaz y su uso. 1.2 Al finalizar el tutorial, el usuario recibe una cantidad inicial de Undertango Coins.
-Módulo 2: Interacciones
-2.1 Se define una "Zona UnderTango", un espacio físico amplio (por ejemplo, 20x20 metros) donde se colocan artefactos interactivos que pueden ser utilizados con Undertango Coins. 2.2 El dispositivo más destacado en la Zona UnderTango es el mural digital, pero también se incluyen otros elementos como el "reflector seguidor" y una "mesa de canje", donde los usuarios pueden intercambiar coins entre sí para actividades lúdicas propuestas desde la plataforma. 2.3 Dentro de esta zona, también se muestra un ranking en tiempo real de los usuarios con más Undertango Coins, más interacciones, y mejores valoraciones positivas.
-Módulo 3: Activadores
-3.1 A lo largo del día, se lanzan desafíos programados desde la aplicación (por ejemplo, cada 2 horas). 3.2 Los desafíos pueden incluir actividades como una "búsqueda del tesoro", la "compra de un NFT", o una "donación relámpago" a otro usuario, entre otros. Estos desafíos están diseñados para fomentar el espíritu lúdico y promover interacciones sanas y divertidas entre los usuarios, ofreciéndoles una excusa para conocerse y conectarse a través de intereses comunes.
-Módulo 4 (Final): Premiación
-4.1 Al finalizar el evento, se premia a los 5 usuarios que hayan acumulado más Undertango Coins, así como a los 5 usuarios con menos coins. 4.2 Se otorgarán premios adicionales a los usuarios que más hayan contribuido en el entorno de interacción propuesto por la aplicación y a los 5 usuarios con más valoraciones positivas por parte de otros participantes.
+## 7. Curriculum de Pablo Guillermo Cieslik
+
+### Resumen Profesional
+Desarrollador Full Stack y director de proyectos con experiencia en la intersección de arte, tecnología y finanzas descentralizadas. Como fundador de UnderTango Club lidero proyectos que fusionan innovación tecnológica con expresiones artísticas, enfocándome en la educación cripto y las experiencias interactivas.
+
+### Educación y Certificaciones
+- **NAVES USA 2024, IAE Business School:** Gestión de proyectos y negocios internacionales.
+- **Técnico en Robótica, Universidad de la Marina Mercante:** Especializado en robótica, programación de sistemas embebidos (Arduino) e IoT.
+- **Certificación en Programación Web, Egg Live:** Desarrollo web con JavaScript, HTML y frameworks modernos.
+- **Fundamentos de la Gestión de Proyectos, Google:** Metodologías ágiles y herramientas de gestión.
+- **Certificado de Unity Essentials Pathway, Unity:** Creación de entornos virtuales y programación 3D.
+
+### Habilidades Clave
+- **Gestión de Proyectos:** Planificación y ejecución de proyectos complejos, integrando equipos multidisciplinarios.
+- **Desarrollo Full Stack:** Experto en Kotlin, JavaScript, HTML, CSS, Node.js y Firebase.
+- **Blockchain y Cripto:** Desarrollo de soluciones innovadoras en finanzas descentralizadas, con enfoque educativo.
+- **Arte Generativo y Consultoría:** Integración de arte digital y tecnología blockchain en experiencias interactivas.
+
+### Idiomas
+- Inglés (Avanzado), Portugués (Profesional), Alemán (Intermedio).
+
+### Contacto
+- **Correo:** pablocieslik@gmail.com
+- **LinkedIn:** [linkedin.com/in/pablo-cieslik](https://linkedin.com/in/pablo-cieslik)
+- [Currículum completo](https://docs.google.com/document/d/1pblG8NH6XvjwdHjMA5AJ6pHFivWQmZ5M-pXPyIWZhuk/edit?usp=sharing)
+
+Siempre en búsqueda de desafíos en desarrollo tecnológico y proyectos que unan arte y sistemas descentralizados.
 
 
-Anexo: Bitácora
-16-8: Se termina de estructurar este documento.
-17-8: Se termina de definir el cronograma general de trabajo.
-18-8: Se termina la tercera parte de este documento y se hace un chequeo general de las herramientas que necesitamos, con cuales ya contamos y cuales necesitan ser actualizadas. Android Studio Actualizado.
-19-9: Android Studio Koala está actualizado, dejaremos Xcode para el futuro para simplificar el proyecto, el repositorio de github es el siguiente: https://github.com/undertangoclub/undertango-coin.git , hemos creado una carpeta para node.js, compilado con .gradle y ejectuado en android mientras lo programamos en vs.
-muy bien, luego de infructuosos intentos por usar react native, vamos a usar kotlin y dedicarnos exclusivamente a android por el momento, luego veremos si traspolamos a ios luego de tener una MVP
-20: se realiza el proyecto en firebase y se configura para que funcione en android, todo parece andar en orden luego de depurar enérgicamente diversos errores del folclore programadoril.
-21: Revisar y actualizar el código de MainActivity.kt: Ya completado.
-Configuración de Gradle y sincronización: También hemos resuelto los problemas y completado la sincronización de Gradle.
-Integración con Firebase: Esto ya está en marcha y hemos vinculado Firebase con el proyecto Android.
-Configuración de GitHub: Hemos vinculado el proyecto a GitHub, gestionado el .gitignore y manejado la API Key de Firebase.
+## 8. Conclusión
+El proyecto **UnderTango Coin** no es solo una intervención artística, sino también una herramienta educativa diseñada para los asistentes de **LABITCONF 2024**. Este proyecto ofrece una experiencia inmersiva e interactiva que les permitirá experimentar y comprender los principios del ecosistema cripto de manera práctica.
+
+La propuesta está cuidadosamente planificada para garantizar su entrega y ejecución exitosas durante el evento, combinando arte, tecnología y educación en una experiencia única. Este enfoque innovador demuestra cómo las finanzas descentralizadas y las tecnologías emergentes pueden integrarse en un entorno artístico y educativo.
+
+Habiendo expuesto los elementos básicos de nuestro proyecto, a continuación, detallamos su descripción más precisa y técnica.
 
 
-Ø Los 17 principios
+## 9. Descripción General de la Dinámica del Proyecto
 
-1°-El dinero fuerte
-2°-La inclusión financiera
-3°-El empoderamiento de las personas
-4°-La descentralización
-5°-La soberanía individual
-6°-Verificar vs Confiar
-7°-El derecho a la privacidad
-8°-La escasez absoluta
-9°-La certeza de las matemáticas
-10°-Las transacciones anónimas
-11°-La libertad financiera
-12°-La certeza del código
-13°-La auto custodia
-14°-La libertad de expresión
-15°-Los derechos individuales
-16°-La identidad digital
-17°-El código como expresión
+### 9.1. Concepto Central
+**Undertango Coin** es una experiencia interactiva que busca sumergir a los participantes en un ecosistema cripto. La interacción va más allá de lo digital, impactando el entorno físico para enseñar cómo la tecnología blockchain, los principios cripto y las decisiones individuales afectan tanto el mundo digital como el real.
+
+### 9.2. Interacción y Gamificación
+- **Distribución Inicial:** Al registrarse, cada usuario recibe una cantidad fija de Undertango Coins, simbolizando igualdad de condiciones en el entorno cripto.
+- **Ganar/Pérdida de Monedas:** Los usuarios ganan o pierden monedas al participar en actividades relacionadas con principios como descentralización y privacidad. Ejemplo: Un usuario publica en el mural digital, y otros pagan en Undertango Coins para interactuar con su contenido. El usuario debe reclamar sus ganancias; si no lo hace a tiempo, las monedas se "queman" y se eliminan del sistema.
+- **Minado Simulado:** Los usuarios pueden "minar" monedas al realizar acciones simbólicas dentro del evento, como realizar su primera transacción o interactuar con el mural digital.
+
+### 9.3. Interacción con el Entorno Físico
+- **Iluminación y Proyecciones:** Los dispositivos interactivos (luces, proyecciones) reaccionan según las acciones de los usuarios. Por ejemplo, cada 30 minutos se ilumina a la persona con más monedas, quien decide si activarla o delegar la oportunidad a otro, reflejando la descentralización y la distribución de poder.
+
+### 9.4. Ejemplos de Actividades
+- **Creación de Identidad Digital:** Personalización del perfil del usuario, enseñando la importancia de la identidad segura en el mundo cripto.
+- **Verificación de Transacciones:** Revisión de transacciones en tiempo real para reforzar la transparencia.
+- **Decisiones Colectivas:** Votación sobre aspectos del entorno (música, iluminación), demostrando la participación equitativa.
+
+### 9.5. Resultado y Evaluación
+- **Evaluación:** Al final, se analizan los resultados de las interacciones para reflexionar sobre la dinámica de poder en un entorno cripto.
+- **Premiación:** Los usuarios destacados reciben un reconocimiento especial, incluyendo una recompensa adicional en Undertango Coins.
+
+### 9.6. Estructura de la Aplicación
+La aplicación se organiza en 4 módulos:
+1. **Registro y Tutorial:** El usuario se registra, recibe un tutorial y una cantidad inicial de monedas.
+2. **Interacciones:** Los usuarios interactúan en una "Zona UnderTango" con elementos como un mural digital y un ranking en tiempo real.
+3. **Desafíos:** Actividades programadas, como "búsqueda del tesoro" o "donación relámpago".
+4. **Premiación:** Al final, se premian a los usuarios más destacados según varios criterios.
+
+Esta dinámica permite a los usuarios aprender y aplicar principios cripto en un entorno real e interactivo.
+
+## Ø Los 17 Principios
+
+1. El dinero fuerte
+2. La inclusión financiera
+3. El empoderamiento de las personas
+4. La descentralización
+5. La soberanía individual
+6. Verificar vs Confiar
+7. El derecho a la privacidad
+8. La escasez absoluta
+9. La certeza de las matemáticas
+10. Las transacciones anónimas
+11. La libertad financiera
+12. La certeza del código
+13. La auto custodia
+14. La libertad de expresión
+15. Los derechos individuales
+16. La identidad digital
+17. El código como expresión
 
 ## Autor de este repositorio
 
 Pablo Guillermo Cieslik
 
-![3perfil](https://github.com/user-attachments/assets/81964e58-e935-46d8-a96f-4dde5c0e116a)
+
+<img src="https://github.com/user-attachments/assets/81964e58-e935-46d8-a96f-4dde5c0e116a" alt="3perfil" width="150"/>
+
 
 Soy un apasionado del arte y la tecnología, me encanta explorar cómo el tango y la innovación pueden ir de la mano. Este proyecto es una muestra de mi entusiasmo por crear experiencias únicas que conecten a las personas a través de la cultura y la revolución digital.
 
@@ -421,13 +386,15 @@ al 22/8/2024
 ![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-78C257?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303a?style=for-the-badge&logo=gradle&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00c79c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-ff9800?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-ff9800?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-![Ø png](https://github.com/user-attachments/assets/3ca0aa1c-2965-4926-8658-045ebce09e71)
+<img src="https://github.com/user-attachments/assets/3ca0aa1c-2965-4926-8658-045ebce09e71" alt="Ø png" width="150"/>
+
 
 Ø
