@@ -30,11 +30,11 @@ Actualmente, disponemos de una versión web del prototipo actualizada diariament
 
 ## Acceso al Proyecto
 
-La dirección fija oficial al prototipo es:
+El prototipo del proyecto puede accesarse aquí:
 
-```bash
-[https://undertango.web.app/ut-coin/](https://www.undertangoclub.com/ut-coin/)
-```
+
+[www.undertangoclub.com/ut-coin/](https://www.undertangoclub.com/ut-coin/)
+
 
 Para una explicación más detallada del proyecto, aquí está el índice, gracias por dedicarnos tu tiempo!
 
@@ -56,63 +56,64 @@ Para una explicación más detallada del proyecto, aquí está el índice, graci
 * [Conclusión](#conclusión)
 * [Licencia](#licencia)
 
-```bash
-[Ambientación sonora](https://open.spotify.com/intl-es/track/1iYK1r4WwGfIitKODja3Zo)
-```
 
-##Documento del Proyecto: 
+[Ambientación sonora](https://open.spotify.com/intl-es/track/1iYK1r4WwGfIitKODja3Zo)
+
+
+## Documento del Proyecto: 
 
 Undertango <Happening> Cøin 
 Simulación Artística de un Ecosistema Cripto
 Nombre alternativo del proyecto: “LabitCoinf” Utility Coin
 
-###Parte I
-1. Resumen Ejecutivo
+# Parte I
+
+## 1. Resumen Ejecutivo
 Este proyecto consiste en desarrollar una aplicación móvil (llamada en este documento como Undertango Coin), la cual simula un ecosistema de criptomonedas dentro de un entorno cerrado, específicamente en el contexto de LABITCONF 2024. Los participantes podrán interactuar y ganar o perder Undertango Coins a través de actividades que representen los principios fundamentales del mundo cripto. La aplicación permitirá a los usuarios influir en su entorno físico a través de interacciones IoT (Internet of Things), creando una experiencia inmersiva donde las criptomonedas y las acciones de los participantes en el mundo real se entrelazan.
 
-2. Descripción del Proyecto
+## 2. Descripción del Proyecto
 Objetivo General: 
 Crear una experiencia inmersiva y educativa que permita a los participantes de LABITCONF 2024 interactuar con un entorno simulado que represente los valores y principios fundamentales del ecosistema cripto, utilizando una criptomoneda experimental llamada Undertango Coin.
 
-Funcionalidades Principales:
+### Funcionalidades Principales:
 Registro y Acceso: Al descargar la aplicación, los usuarios se registran y reciben una cantidad fija de Undertango Coins.
 Interacción Basada en Principios: Los usuarios pueden ganar o perder monedas al participar en actividades que reflejen principios como la descentralización, la soberanía individual, y la privacidad.
 Minado Simulado: Un porcentaje de las monedas debe ser "minado" a través de actividades simbólicas que representen los principios cripto.
 Visualización en Tiempo Real: La distribución de las monedas y la evolución del entorno se proyectarán en la sala del evento, mostrando cómo se desenvuelven las interacciones entre los participantes.
 
 
-3. Tecnologías Utilizadas
+## 3. Tecnologías Utilizadas
 
-[Primaria / Esencial ]:
-Frontend:
-React Native o Flutter para el desarrollo de la aplicación móvil.
+### [Primaria / Esencial ]:
+#### Frontend:
+React Native , Kotlin y Flutter para el desarrollo de la aplicación móvil; HTML, JS & CSS para la aplicación web.
 
-Backend:
+#### Backend:
 Node.js para la lógica del servidor y la gestión de transacciones.
 Firebase para autenticación y base de datos en tiempo real.
 
-Base de Datos:
+#### Base de Datos:
 Firestore de Firebase para almacenar datos de usuario y transacciones.
 
-Integración Física:
+#### Integración Física:
 Proyecciones Dinámicas utilizando sistemas de visualización que muestren las interacciones en tiempo real en la sala del evento.
 
-[Complementaria / Sofisticación Opcional]:
+### [Complementaria / Sofisticación Opcional]:
 
-Smart Contracts:
+#### Smart Contracts:
 Ethereum o Binance Smart Chain: Implementación de contratos inteligentes en una testnet para manejar la lógica de distribución y minado de Undertango Coins. Esto añadiría una capa de autenticidad y permitiría explorar cómo los principios del proyecto se alinean con la tecnología blockchain real.
 Solidity: Utilización de este lenguaje para desarrollar los contratos inteligentes que gestionarían la distribución de tokens y las interacciones basadas en los principios definidos.
 
-Tokenización y Wallets:
+#### Tokenización y Wallets:
 ERC-20/BEP-20 Tokens: Creación de un token personalizado (Undertango Coin) en una blockchain pública (Ethereum o Binance Smart Chain), que los participantes podrían almacenar en una wallet compatible como MetaMask, añadiendo una capa adicional de realismo y funcionalidad al proyecto.
 
-Blockchain Explorer:
+#### Blockchain Explorer:
 Etherscan/BSCscan: Integración con exploradores de blockchain para que los usuarios puedan verificar sus transacciones en tiempo real, reforzando el concepto de "verificar vs confiar".
 
-Interacción con IoT:
+#### Interacción con IoT:
 Dispositivos IoT: Implementación de dispositivos que respondan a las transacciones y movimientos dentro del evento (por ejemplo, luces o artefactos que reaccionen al movimiento de las Undertango Coins), creando un entorno más inmersivo y responsivo.
 
-4. Cronograma General
+## 4. Cronograma General
 Agosto:
 Semana 1 (18-20 agosto):
 Finalización del documento.
